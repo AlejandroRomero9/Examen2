@@ -1,0 +1,38 @@
+div{
+    border: black 1px solid;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: end;
+    background-color: rgba(0, 0, 0, 0.192);
+    color: rgb(255, 255, 255);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+
+
+button{
+    width: 200px;
+    margin-left: 43%;
+    margin-bottom: 20px;
+    font-family: 'Antonio', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-color: black;
+}
+html{
+    font-family: 'Antonio', sans-serif;
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1503/THE_WITCHER_3_WILD_HUNT_Game_HD_Wallpaper_17_1366x768.jpg);
+    background-size: 100%;
+}
